@@ -1,0 +1,12 @@
+C:\Repo\struct-vs-class\struct-vs-class\StructProject\bin\Debug\net9.0\StructProject.deps.json
+C:\Repo\struct-vs-class\struct-vs-class\StructProject\bin\Debug\net9.0\StructProject.dll
+C:\Repo\struct-vs-class\struct-vs-class\StructProject\bin\Debug\net9.0\StructProject.pdb
+C:\Repo\struct-vs-class\struct-vs-class\StructProject\obj\Debug\net9.0\StructProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\struct-vs-class\struct-vs-class\StructProject\obj\Debug\net9.0\StructProject.AssemblyInfoInputs.cache
+C:\Repo\struct-vs-class\struct-vs-class\StructProject\obj\Debug\net9.0\StructProject.AssemblyInfo.cs
+C:\Repo\struct-vs-class\struct-vs-class\StructProject\obj\Debug\net9.0\StructProject.csproj.CoreCompileInputs.cache
+C:\Repo\struct-vs-class\struct-vs-class\StructProject\obj\Debug\net9.0\StructProject.sourcelink.json
+C:\Repo\struct-vs-class\struct-vs-class\StructProject\obj\Debug\net9.0\StructProject.dll
+C:\Repo\struct-vs-class\struct-vs-class\StructProject\obj\Debug\net9.0\refint\StructProject.dll
+C:\Repo\struct-vs-class\struct-vs-class\StructProject\obj\Debug\net9.0\StructProject.pdb
+C:\Repo\struct-vs-class\struct-vs-class\StructProject\obj\Debug\net9.0\ref\StructProject.dll

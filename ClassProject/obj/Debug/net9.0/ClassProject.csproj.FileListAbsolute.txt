@@ -1,0 +1,12 @@
+C:\Repo\struct-vs-class\struct-vs-class\ClassProject\bin\Debug\net9.0\ClassProject.deps.json
+C:\Repo\struct-vs-class\struct-vs-class\ClassProject\bin\Debug\net9.0\ClassProject.dll
+C:\Repo\struct-vs-class\struct-vs-class\ClassProject\bin\Debug\net9.0\ClassProject.pdb
+C:\Repo\struct-vs-class\struct-vs-class\ClassProject\obj\Debug\net9.0\ClassProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\struct-vs-class\struct-vs-class\ClassProject\obj\Debug\net9.0\ClassProject.AssemblyInfoInputs.cache
+C:\Repo\struct-vs-class\struct-vs-class\ClassProject\obj\Debug\net9.0\ClassProject.AssemblyInfo.cs
+C:\Repo\struct-vs-class\struct-vs-class\ClassProject\obj\Debug\net9.0\ClassProject.csproj.CoreCompileInputs.cache
+C:\Repo\struct-vs-class\struct-vs-class\ClassProject\obj\Debug\net9.0\ClassProject.sourcelink.json
+C:\Repo\struct-vs-class\struct-vs-class\ClassProject\obj\Debug\net9.0\ClassProject.dll
+C:\Repo\struct-vs-class\struct-vs-class\ClassProject\obj\Debug\net9.0\refint\ClassProject.dll
+C:\Repo\struct-vs-class\struct-vs-class\ClassProject\obj\Debug\net9.0\ClassProject.pdb
+C:\Repo\struct-vs-class\struct-vs-class\ClassProject\obj\Debug\net9.0\ref\ClassProject.dll
